@@ -2,3 +2,10 @@
 background-color: rgb(161, 94, 161); 
     
  }
+
+ h1 {
+
+    font-size: 100px;
+    color: rgb(211, 167, 209);
+    text-transform: uppercase;
+ }
